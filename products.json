@@ -1529,20 +1529,6 @@
                 "colors": ["Black", "Gray", "Navy"],
                 "description": "This men's winter jacket from The North Face is the perfect way to stay warm and comfortable during the cold winter months. It features a stylish design and is made from high-quality materials.",
                 "image": "https://example.com/images/p110.jpg"
-                },
-                {
-                "productId": "P111",
-                "productName": "Men's Winter Jacket",
-                "category": "Men's Clothing",
-                "type": "jacket",
-                "brand": "The North Face",
-                "price": 299.99,
-                "sale": false,
-                "availability": "in stock",
-                "sizes": ["S", "M", "L", "XL"],
-                "colors": ["Black", "Gray", "Navy"],
-                "description": "This men's winter jacket from The North Face is the perfect way to stay warm and comfortable during the cold winter months. It features a stylish design and is made from high-quality materials.",
-                "image": "https://example.com/images/p110.jpg"
                 }
     ]
   }
