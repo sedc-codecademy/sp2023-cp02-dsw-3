@@ -20,7 +20,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "This satin black dress is perfect for evening events with its elegant and sleek design.",
-        "image": "https://example.com/images/satin_black_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Satin-black-dress/satin-black-dress-1.jpg"
       },
       {
         "productId": "P002",
@@ -35,7 +35,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue", "Yellow"],
         "description": "This breezy summer dress is perfect for casual outings and beach days.",
-        "image": "https://example.com/images/summer_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Summer-dress/summer-dress-3.jpg"
       },
       {
         "productId": "P003",
@@ -50,7 +50,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Pink", "White"],
         "description": "This short summer dress is perfect for a fun and flirty look during the hot season.",
-        "image": "https://example.com/images/short_summer_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Short-summer-dress/short-summer-dress-1.jpg"
       },
       {
         "productId": "P004",
@@ -65,7 +65,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Beige"],
         "description": "This linen dress is lightweight and breathable, perfect for staying cool during summer.",
-        "image": "https://example.com/images/linen_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Linnen-dress/linen-dress-1.jpg"
       },
       {
         "productId": "P005",
@@ -80,7 +80,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Red", "Yellow"],
         "description": "This summer flower dress features a vibrant floral print, perfect for a cheerful and colorful look.",
-        "image": "https://example.com/images/summer_flower_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Summer-flower-dress/summer-flower-dress-2.jpg"
       },
       {
         "productId": "P006",
@@ -95,7 +95,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "This little black dress is a timeless classic that is suitable for various occasions.",
-        "image": "https://example.com/images/little_black_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Little-black-dress/little-black-dress-1.jpg"
       },
       {
         "productId": "P007",
@@ -110,7 +110,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Brown"],
         "description": "This brown dress adds a touch of warmth and elegance to your wardrobe.",
-        "image": "https://example.com/images/brown_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Brown-dress/brown-dress-3.jpg"
       },
       {
         "productId": "P008",
@@ -125,7 +125,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Green"],
         "description": "This green dress brings a refreshing and vibrant touch to your outfit.",
-        "image": "https://example.com/images/green_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Green-dress/green-dress-1.jpg"
       },
       {
         "productId": "P009",
@@ -140,7 +140,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Yellow"],
         "description": "This yellow dress adds a cheerful and sunny vibe to your wardrobe.",
-        "image": "https://example.com/images/yellow_dress.jpg"
+        "image": "products-images/womens-category/Dresses/Yellow-dress/yellow-dress-3.jpg"
       },
       {
         "productId": "P010",
@@ -155,7 +155,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black", "Blue"],
         "description": "This black and blue skirt adds a touch of style and versatility to your wardrobe.",
-        "image": "https://example.com/images/black_and_blue_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Black-and-blue-skirt/black-blue-skirt-1.jpg"
       },
       {
         "productId": "P011",
@@ -170,7 +170,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "This high-waisted skirt accentuates your waistline and creates a flattering silhouette.",
-        "image": "https://example.com/images/high_waisted_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/High-waisted-skirt/high-waisted-skirt-3.jpg"
       },
       {
         "productId": "P012",
@@ -185,7 +185,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Red"],
         "description": "This not ordinary skirt adds a unique and edgy touch to your outfit.",
-        "image": "https://example.com/images/not_ordinary_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Not-ordinary-skirt/not-ordinary-skirt-3.jpg"
       },
       {
         "productId": "P013",
@@ -200,7 +200,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "This sports skirt is perfect for active individuals who want to combine style and comfort.",
-        "image": "https://example.com/images/sports_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Sports-skirt/sports-skirt-3.jpg"
       },
       {
         "productId": "P014",
@@ -215,7 +215,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black", "White"],
         "description": "This black and white skirt offers a classic and versatile look that never goes out of style.",
-        "image": "https://example.com/images/black_and_white_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Black-and-white-skirt/black-and-white-skirt-1.jpg"
       },
       {
         "productId": "P015",
@@ -230,7 +230,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Green"],
         "description": "This green midi skirt adds a touch of elegance and sophistication to your ensemble.",
-        "image": "https://example.com/images/green_midi_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Green-midi-skirt/green-midi-skirt-3.jpg"
       },
       {
         "productId": "P016",
@@ -245,7 +245,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "This little black skirt is a versatile piece that can be dressed up or down for various occasions.",
-        "image": "https://example.com/images/little_black_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Litle-black-skirt/little-black-skirt-3.jpg"
       },
       {
         "productId": "P017",
@@ -260,7 +260,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "This denim skirt is a wardrobe staple that can be paired with various tops for a stylish look.",
-        "image": "https://example.com/images/denim_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Denim-skirt/denim-skirt-1.jpg"
       },
       {
         "productId": "P018",
@@ -275,7 +275,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "This maxi skirt offers a flowy and elegant look that is perfect for both casual and formal occasions.",
-        "image": "https://example.com/images/maxi_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Maxi-skirt/maxi-skirt-3.jpg"
       },
       {
         "productId": "P019",
@@ -290,7 +290,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue", "Yellow"],
         "description": "This summer skirt features a vibrant print and lightweight fabric, perfect for sunny days.",
-        "image": "https://example.com/images/summer_skirt.jpg"
+        "image": "products-images/womens-category/Skirts/Summer-skirt/summer-skirt-1.jpg"
       },
       {
         "productId": "P020",
@@ -305,7 +305,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "These black mom jeans offer a comfortable and relaxed fit with a vintage-inspired style.",
-        "image": "https://example.com/images/black_mom_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Black-mom-jeans/black-mom-jeans-4.jpg"
       },
       {
         "productId": "P021",
@@ -320,7 +320,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These ripped mom jeans feature distressed details for a trendy and edgy look.",
-        "image": "https://example.com/images/ripped_mom_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Ripped-mom-jeans/ripped-mom-jeans-3.jpg"
       },
       {
         "productId": "P022",
@@ -335,7 +335,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These classy jeans offer a polished and sophisticated look for various occasions.",
-        "image": "https://example.com/images/classy_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Classy-jeans/classy-jeans-1.jpg"
       },
       {
         "productId": "P023",
@@ -350,7 +350,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These classy faded jeans combine a refined style with a worn-in, vintage look.",
-        "image": "https://example.com/images/classy_faded_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Classy-faded-jeans/classy-faded-jeans-1.jpg"
       },
       {
         "productId": "P024",
@@ -365,7 +365,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These skinny jeans offer a sleek and form-fitting silhouette for a stylish and modern look.",
-        "image": "https://example.com/images/skinny_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Skinny-jeans/skinny-jeans-2.jpg"
       },
       {
         "productId": "P025",
@@ -380,7 +380,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These regular jeans offer a classic and timeless style for everyday wear.",
-        "image": "https://example.com/images/regular_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Regular-jeans/regular-jeans-1.jpg"
       },
       {
         "productId": "P026",
@@ -395,7 +395,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["White"],
         "description": "These white skinny jeans add a fresh and stylish touch to any outfit.",
-        "image": "https://example.com/images/white_skinny_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/White-skinny-jeans/white-skinny-jeans-1.jpg"
       },
       {
         "productId": "P027",
@@ -410,7 +410,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These skinny classical jeans offer a versatile and flattering fit with a classic design.",
-        "image": "https://example.com/images/skinny_classical_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Classic-skinny-jeans/classic-skinny-jeans-1.jpg"
       },
       {
         "productId": "P028",
@@ -425,7 +425,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These classic wide leg jeans offer a relaxed and comfortable fit with a vintage-inspired style.",
-        "image": "https://example.com/images/classic_wide_leg_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Classic-wide-leg-jeans/wide-leg-jeans-1.jpg"
       },
       {
         "productId": "P029",
@@ -440,7 +440,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These faded wide leg jeans offer a trendy and vintage look with a worn-in appearance.",
-        "image": "https://example.com/images/faded_wide_leg_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Faded-wide-jeans/faded-wide-jeans-3.jpg"
       },
       {
         "productId": "P030",
@@ -455,7 +455,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These designed wide leg jeans feature unique and eye-catching patterns for a fashion-forward look.",
-        "image": "https://example.com/images/designed_wide_leg_jeans.jpg"
+        "image": "products-images/womens-category/Jeans/Designed-wide-jeans/designed-wide-jeans-3.jpg"
       },
       {
         "productId": "P031",
@@ -470,7 +470,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These denim shorts offer a casual and comfortable style for warm weather.",
-        "image": "https://example.com/images/denim_shorts.jpg"
+        "image": "products-images/womens-category/Jeans/Denim-shorts/denim-shorts-1.jpg"
       },
       {
         "productId": "P032",
@@ -485,7 +485,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "These high waisted shorts offer a flattering and trendy style for a chic and modern look.",
-        "image": "https://example.com/images/high_waisted_shorts.jpg"
+        "image": "products-images/womens-category/Jeans/High-waisted-shorts/high-waisted-shorts-2.jpg"
       },
       {
         "productId": "P033",
@@ -500,7 +500,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "These satin shorts offer a luxurious and elegant style for special occasions or evening wear.",
-        "image": "https://example.com/images/satin_shorts.jpg"
+        "image": "products-images/womens-category/Jeans/Satin-shorts/satin-shorts-4.jpg"
       },
       {
         "productId": "P034",
@@ -515,7 +515,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Striped"],
         "description": "This striped shirt offers a classic and timeless look with its stylish pattern.",
-        "image": "https://example.com/images/p034.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Stripped-shirt/stripped-shirt-2.jpg"
       },
       {
         "productId": "P035",
@@ -530,7 +530,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["White"],
         "description": "This white shirt is a versatile and essential piece for any wardrobe, perfect for both casual and formal occasions.",
-        "image": "https://example.com/images/p035.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/White-shirt/white-shirt-1.jpg"
       },
       {
         "productId": "P036",
@@ -545,7 +545,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Denim"],
         "description": "This denim shirt offers a stylish and casual look, perfect for a laid-back and trendy outfit.",
-        "image": "https://example.com/images/p036.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Denim-shirt/denim-shirt-3.jpg"
       },
       {
         "productId": "P037",
@@ -560,7 +560,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Pink"],
         "description": "This pink shirt adds a touch of femininity to your outfit, making it a versatile choice for various occasions.",
-        "image": "https://example.com/images/p037.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Pink-shirt/pink-shirt-1.jpg"
       },
       {
         "productId": "P038",
@@ -575,7 +575,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This oversized crop top offers a trendy and relaxed style, perfect for a fashionable and comfortable look.",
-        "image": "https://example.com/images/p038.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Oversized-crop-top-shirt/oversized-crop-top-shirt-1.jpg"
       },
       {
         "productId": "P039",
@@ -590,8 +590,9 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This classical t-shirt is a versatile and timeless piece that can be easily paired with different outfits.",
-        "image": "https://example.com/images/p039.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Classical-tshirt/classical-tshirt-1.jpg"
       },
+      
       {
         "productId": "P040",
         "productName": "Crop Top",
@@ -605,7 +606,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This crop top adds a trendy and playful touch to your outfit, perfect for a summer or casual look.",
-        "image": "https://example.com/images/p040.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Crop-top/crop-top-1.jpg"
       },
       {
         "productId": "P041",
@@ -620,7 +621,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This t-shirt with a unique and stylish print adds personality and flair to your casual or streetwear look.",
-        "image": "https://example.com/images/p041.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Tshirt-with-print/tshirt-with-print-3.jpg"
       },
       {
         "productId": "P042",
@@ -635,7 +636,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This one color t-shirt is a simple and versatile piece that can be easily mixed and matched with different outfits.",
-        "image": "https://example.com/images/p042.jpg"
+        "image": "products-images/womens-category/Shirts and T-Shirts/Tshirt-one-color/tshirt-one-color-1.jpg"
       },
       {
         "productId": "P043",
@@ -650,7 +651,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This oversize tracksuit offers a comfortable and relaxed fit, perfect for a sporty and trendy look.",
-        "image": "https://example.com/images/p043.jpg"
+        "image": "products-images/womens-category/Sportswear/Oversized-tracksuit/oversized-tracksuit-2.jpg"
       },
       {
         "productId": "P044",
@@ -665,7 +666,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This short sleeve tracksuit provides a lightweight and breathable option for your active lifestyle.",
-        "image": "https://example.com/images/p044.jpg"
+        "image": "products-images/womens-category/Sportswear/Short-sleeve-tracksuit/short-sleeve-tracksuit-1.jpg"
       },
       {
         "productId": "P045",
@@ -680,7 +681,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This wide leg tracksuit offers a stylish and comfortable option with a relaxed fit and trendy design.",
-        "image": "https://example.com/images/p045.jpg"
+        "image": "products-images/womens-category/Sportswear/Wide-leg-tracksuit/wide-leg-tracksuit-2.jpg"
       },
       {
         "productId": "P046",
@@ -695,7 +696,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This two-piece gym wear set is designed to provide comfort and flexibility during your workout sessions.",
-        "image": "https://example.com/images/p046.jpg"
+        "image": "products-images/womens-category/Sportswear/Two-set-gym-wear/two-set-gym-wear-4.jpg"
       },
       {
         "productId": "P047",
@@ -710,7 +711,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This three-piece gym wear set offers a stylish and functional option for your workout wardrobe.",
-        "image": "https://example.com/images/p047.jpg"
+        "image": "products-images/womens-category/Sportswear/Three-set-gym-wear/three-set-gym-wear-1.jpg"
       },
       {
         "productId": "P048",
@@ -725,7 +726,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This sleeveless sport dress is perfect for active and casual occasions. It offers a comfortable and stylish option for your sportswear collection.",
-        "image": "https://example.com/images/p048.jpg"
+        "image": "products-images/womens-category/Sportswear/Sport-dress-without-sleeves/sport-dress-without-sleeves-3.jpg"
       },
       {
         "productId": "P049",
@@ -740,7 +741,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This long-sleeved sport dress combines style and functionality. It is designed to keep you comfortable and fashionable during your active pursuits.",
-        "image": "https://example.com/images/p049.jpg"
+        "image": "products-images/womens-category/Sportswear/Long-dress-with-sleeves/long-dress-with-sleeves-3.jpg"
       },
       {
         "productId": "P050",
@@ -755,7 +756,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This sport dress features long sleeves for added coverage and style. It is a versatile piece that can be worn for various sporting activities or casual outings.",
-        "image": "https://example.com/images/p050.jpg"
+        "image": "products-images/womens-category/Sportswear/Dress-with-long-sleeves/dress-with-long-sleeves-4.jpg"
       },
       {
         "productId": "P051",
@@ -770,7 +771,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Pink"],
         "description": "This pink cropped suit is a stylish and unique addition to your wardrobe. It features a cropped jacket and matching pants, perfect for making a fashion statement.",
-        "image": "https://example.com/images/p051.jpg"
+        "image": "products-images/womens-category/Suits/Pink-cropped-suit/pink-cropped-suit-3.jpg"
       },
       {
         "productId": "P052",
@@ -785,7 +786,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["White"],
         "description": "This white feathered suit is a stunning choice for special occasions. It features a feathered jacket and matching pants, adding an elegant touch to your ensemble.",
-        "image": "https://example.com/images/p052.jpg"
+        "image": "products-images/womens-category/Suits/White-feathered-suit/white-feathered-suit-1.webp"
       },
       {
         "productId": "P053",
@@ -800,7 +801,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This two-color suit offers a unique and eye-catching design. It combines two complementary colors in a stylish jacket and pants set, perfect for those who want to stand out.",
-        "image": "https://example.com/images/p053.jpg"
+        "image": "products-images/womens-category/Suits/Two-color-suit/two-color-suit-1.webp"
       },
       {
         "productId": "P054",
@@ -815,7 +816,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This short suit is a trendy and fashionable choice. It features a shorter length jacket and matching shorts, offering a stylish and comfortable outfit option.",
-        "image": "https://example.com/images/p054.jpg"
+        "image": "products-images/womens-category/Suits/Short-suit/short-suit-1.webp"
       },
       {
         "productId": "P055",
@@ -830,7 +831,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Red"],
         "description": "This red 3 set suit is a sophisticated and elegant choice for formal occasions. It includes a blazer, pants, and a matching top, creating a polished and stylish ensemble.",
-        "image": "https://example.com/images/p055.jpg"
+        "image": "products-images/womens-category/Suits/Red-3-set-suit/red-3-set-suit-3.webp"
       },
       {
         "productId": "P056",
@@ -845,7 +846,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This formal 3 set suit is a timeless and classic choice for professional settings. It features a tailored blazer, pants, and a coordinating top, ensuring a sophisticated look.",
-        "image": "https://example.com/images/p056.jpg"
+        "image": "products-images/womens-category/Suits/Formal-3-set-suit/formal-3-set-suit-3.jpg"
       },
       {
         "productId": "P057",
@@ -860,7 +861,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Gray"],
         "description": "This formal gray suit exudes elegance and professionalism. With its tailored blazer and pants, it offers a stylish and sophisticated option for formal occasions.",
-        "image": "https://example.com/images/p057.jpg"
+        "image": "products-images/womens-category/Suits/Formal-gray-suit/formal-gray-suit-1.jpg"
       },
       {
         "productId": "P058",
@@ -875,7 +876,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["White"],
         "description": "This white suit is a classic and versatile choice. Its tailored blazer and pants create a polished and refined look suitable for various formal or professional settings.",
-        "image": "https://example.com/images/p058.jpg"
+        "image": "products-images/womens-category/Suits/White-suit/white-suit-1.jpg"
       },
       {
         "productId": "P059",
@@ -890,7 +891,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "This blue oversize suit offers a modern and fashion-forward twist on a classic silhouette. With its relaxed fit and oversized blazer and pants, it creates a chic and stylish look.",
-        "image": "https://example.com/images/p059.jpg"
+        "image": "products-images/womens-category/Suits/Blue-oversize-suit/blue-over-size-suit-3.jpg"
       },
       {
         "productId": "P060",
@@ -905,7 +906,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "This blue suit is a classic and sophisticated choice. With its tailored blazer and pants, it offers a timeless and refined look suitable for various formal occasions.",
-        "image": "https://example.com/images/p060.jpg"
+        "image": "products-images/womens-category/Suits/Blue-suit/blue-suit-1.jpg"
       },
       {
         "productId": "P061",
@@ -920,7 +921,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Denim"],
         "description": "This oversize denim jacket is a trendy and stylish outerwear piece. With its relaxed fit and distressed details, it adds a cool and casual vibe to any outfit.",
-        "image": "https://example.com/images/p061.jpg"
+        "image": "products-images/womens-category/Jackets/Oversize-denim-jacket/oversize-denim-jacket-1.jpg"
       },
       {
         "productId": "P062",
@@ -935,7 +936,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Various"],
         "description": "This all colors denim jacket offers a versatile and playful option for your wardrobe. With its multiple colors and classic denim design, it adds a touch of fun to your outfit.",
-        "image": "https://example.com/images/p062.jpg"
+        "image": "products-images/womens-category/Jackets/All-colors-denim-jacket/all-colors-denim-jacket-1.jpg"
       },
       {
         "productId": "P063",
@@ -950,7 +951,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Denim"],
         "description": "This designed denim jacket features unique and eye-catching patterns. With its artistic design and denim fabric, it adds a touch of creativity and style to your look.",
-        "image": "https://example.com/images/p063.jpg"
+        "image": "products-images/womens-category/Jackets/Designed-denim-jacket/designed-denim-jacket-1.jpg"
       },
       {
         "productId": "P064",
@@ -965,7 +966,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Brown"],
         "description": "This brown leather jacket is a timeless and classic outerwear piece. Made with high-quality leather, it offers both style and durability for a chic and edgy look.",
-        "image": "https://example.com/images/p064.jpg"
+        "image": "products-images/womens-category/Jackets/Brown-leather-jacket/brown-leather-jacket-3.jpg"
       },
       {
         "productId": "P065",
@@ -980,7 +981,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Beige"],
         "description": "This beige leather jacket offers a sophisticated and elegant option for your outerwear collection. With its soft leather and neutral color, it complements various styles.",
-        "image": "https://example.com/images/p065.jpg"
+        "image": "products-images/womens-category/Jackets/Beige-leather-jacket/beige-leather-jacket-1.jpg"
       },
       {
         "productId": "P066",
@@ -995,7 +996,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["White"],
         "description": "This white leather jacket adds a touch of elegance and sophistication to any outfit. With its sleek design and high-quality leather, it exudes modern style and versatility.",
-        "image": "https://example.com/images/p066.jpg"
+        "image": "products-images/womens-category/Jackets/White-leather-jacket/white-leather-jacket-1.jpg"
       },
       {
         "productId": "P067",
@@ -1010,7 +1011,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "Stay warm and stylish during the winter season with this cozy winter jacket. It features a waterproof outer layer and a soft, insulated interior for ultimate comfort.",
-        "image": "https://example.com/images/p067.jpg"
+        "image": "products-images/womens-category/Jackets/Sports-winter-jacket/sports-winter-jacket-1.jpg"
       },
       {
         "productId": "P068",
@@ -1025,7 +1026,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Green"],
         "description": "Add a trendy and sporty touch to your outfit with this classic bomber jacket. It features a lightweight design and ribbed cuffs for a comfortable fit.",
-        "image": "https://example.com/images/p068.jpg"
+        "image": "products-images/womens-category/Jackets/Sports-bomber-jacket/sports-bomber-jacket-1.jpg"
       },
       {
         "productId": "P069",
@@ -1040,7 +1041,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Blue"],
         "description": "Stay protected from the wind and rain with this stylish windbreaker jacket. Its lightweight and water-resistant fabric make it perfect for outdoor activities.",
-        "image": "https://example.com/images/p069.jpg"
+        "image": "products-images/womens-category/Jackets/Sports-windbreaker-jacket/sports-windbreaker-jacket-1.jpg"
       },
       {
         "productId": "P070",
@@ -1055,7 +1056,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Beige"],
         "description": "Step out in style with this classic trench coat. Its timeless design and belted waist add sophistication to any outfit.",
-        "image": "https://example.com/images/p070.jpg"
+        "image": "products-images/womens-category/Jackets/Trench-coat/trench-coat-1.jpg"
       },
       {
         "productId": "P071",
@@ -1070,7 +1071,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Black"],
         "description": "Wrap yourself in comfort and style with this oversized coat. Its loose fit and cozy material make it perfect for chilly days.",
-        "image": "https://example.com/images/p071.jpg"
+        "image": "products-images/womens-category/Jackets/Oversized-coat/oversized-coat-3.jpg"
       },
       {
         "productId": "P072",
@@ -1085,7 +1086,7 @@
         "sizes": ["S", "M", "L"],
         "colors": ["Gray"],
         "description": "Stay elegant and warm with this classic coat. Its tailored silhouette and high-quality fabric make it a must-have for any wardrobe.",
-        "image": "https://example.com/images/p072.jpg"
+        "image": "products-images/womens-category/Jackets/Classic-coat/classic-coat-1.jpg"
       },
       {
         "productId": "P073",
