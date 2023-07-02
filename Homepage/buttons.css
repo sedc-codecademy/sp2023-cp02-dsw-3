@@ -2,24 +2,33 @@
     position:absolute;
     top: 1120px;
     left: 80px;
+    text-decoration: none;
+    background-color: white;
+    
 }
 
 #dress-button{
     position: absolute;
     top: 1120px;
     left: 820px;
+    text-decoration: none;
+    background-color: white;
 }
 
 #jacket-button{
     position: absolute;
     top: 1630px;
     left: 500px;
+    text-decoration: none;
+    background-color: white;
 }
 
 #jeans-button{
     position: absolute;
     top: 1120px;
     right: 175px;
+    text-decoration: none;
+    background-color: white;
 }
 
 .shopBtn{
@@ -27,9 +36,12 @@
     height: 40px;
     border-radius: 15px;
     border: 2px solid black;
+    text-decoration: none;
+    background-color: white;
 }
 .shopBtn:hover{
-    background-color: yellow;
+    background-color: yellow!important;
     width: 130px;
     height: 50px;
+    text-decoration: none;
 }
