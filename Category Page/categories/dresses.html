@@ -16,7 +16,6 @@
 <body>
 
   <h1 class="headerOfCategories">Dresses</h1>
-  <!-- CHANGE IT OR DELETE IT  -->
 
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
@@ -30,6 +29,7 @@
         <img src="../images/flowerDress.jpg" class="d-block w-50" alt="...">
       </div>
     </div>
+    
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -41,118 +41,336 @@
   </div>
 
 
-
   <img src="../../products-images/womens-category/Dresses/Satin-black-dress/satin-black-dress-1.jpg" class="startOfSection">
 
-
-  <div class="customCard">
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Satin-black-dress/satin-black-dress-2.jpg">
-      <div class="productInfo">
-        <p>Satin black dress</p>
-        <p>Price: 2200MKD</p>
-        <button class="cartButton">+</button>
+  <div class="card-group" id="onlyTwoInCard-group">
+    <div class="card">
+      <img
+        src="../../products-images/womens-category/Dresses/Satin-black-dress/satin-black-dress-2.jpg"
+        class="card-img-top"
+        alt="Satin black dress"
+      />
+      <div class="card-body">
+        <h5 class="card-title">Satin black dress</h5>
+        <p class="card-text">Price: 2200MKD<br /></p>
+        <form action="checkbox">
+          <p>
+            Choose your size:
+            <input type="checkbox" id="sizeS" />
+            <label for="sizeS">S</label>
+            <input type="checkbox" id="sizeM" />
+            <label for="sizeM">M</label>
+            <input type="checkbox" id="sizeL" />
+            <label for="sizeL">L</label>
+          </p>
+        </form>
+        <form action="radio">
+          <p>
+            Choose your color:
+            <input type="radio" name="color" value="black" id="black" />
+            <label for="black">Black</label>
+          </p>
+        </form>
+        <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
       </div>
     </div>
 
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Satin-black-dress/satin-black-dress-3.jpg">
-      <div class="productInfo">
-        <p>Satin black dress</p>
-        <p>Price: 2200MKD</p>
-        <button class="cartButton">+</button>
+    <div class="card">
+      <img
+        src="../../products-images/womens-category/Dresses/Satin-black-dress/satin-black-dress-3.jpg"
+        class="card-img-top"
+        alt="Satin black dress"
+      />
+      <div class="card-body">
+        <h5 class="card-title">Satin black dress</h5>
+        <p class="card-text">Price: 2200MKD<br /></p>
+        <form action="checkbox">
+          <p>
+            Choose your size:
+            <input type="checkbox" id="sizeS" />
+            <label for="sizeS">S</label>
+            <input type="checkbox" id="sizeM" />
+            <label for="sizeM">M</label>
+            <input type="checkbox" id="sizeL" />
+            <label for="sizeL">L</label>
+          </p>
+        </form>
+        <form action="radio">
+          <p>
+            Choose your color:
+            <input type="radio" name="color" value="black" id="black" />
+            <label for="black">Black</label>
+          </p>
+        </form>
+        <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
       </div>
-    </div>
-  </div>
-
-
-
-  <img src="../images/woman-dress.jpg">
-
-  <div class="customCard">
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Summer-dress/summer-dress-3.jpg">
-      <div class="productInfo">
-        <p>Summer dress</p>
-        <p>Price: 1900MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
-
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Short-summer-dress/short-summer-dress-1.jpg">
-      <div class="productInfo">
-        <p>Short summer dress</p>
-        <p>Price: 1700MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
-  </div>
-
-  <img src="../images/dressForWoman.jpg"  class="startOfSection">
-
-  <div class="customCard">
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Linnen-dress/linen-dress-1.jpg">
-      <div class="productInfo">
-        <p>Linen dress</p>
-        <p>Price: 1200MKD</p>
-        <button class="cartButton">+</button>
       </div>
     </div>
 
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Summer-flower-dress/summer-flower-dress-2.jpg">
-      <div class="productInfo">
-        <p>Summer flower dress</p>
-        <p>Price: 1000MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
+    <img src="../images/woman-dress.jpg">
 
-    <div class="product" onclick="pictureChange(event.target)">
-      <a href="../card/card.html"><img src="../../products-images/womens-category/Dresses/Little-black-dress/little-black-dress-1.jpg" alt="Little black dress" class="dynamicPicture"></a>
-      <div class="productInfo">
-        <p>Little black dress</p>
-        <p>Price: 1300MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
-  </div>
+      <img src="../images/dressForWoman.jpg"  class="startOfSection">
 
-  <div class="customCard">
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Brown-dress/brown-dress-3.jpg">
-      <div class="productInfo">
-        <p>Brown dress</p>
-        <p>Price: 1400MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
 
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Green-dress/green-dress-1.jpg">
-      <div class="productInfo">
-        <p>Green dress</p>
-        <p>Price: 1400MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
+      <div class="card-group">
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Linnen-dress/linen-dress-1.jpg"
+            class="card-img-top"
+            alt="Linen dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Linen dress</h5>
+            <p class="card-text">Price: 1200MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="beige" id="beige" />
+                <label for="beige">Beige</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
 
-    <div class="product">
-      <img src="../../products-images/womens-category/Dresses/Yellow-dress/yellow-dress-3.jpg">
-      <div class="productInfo">
-        <p>Yellow dress</p>
-        <p>Price: 1400MKD</p>
-        <button class="cartButton">+</button>
-      </div>
-    </div>
-  </div>
-  </div>
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Summer-flower-dress/summer-flower-dress-2.jpg"
+            class="card-img-top"
+            alt="Summer flower dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Summer flower dress</h5>
+            <p class="card-text">Price: 1000MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="red" id="red" />
+                <label for="red">Red</label>
+                <input type="radio" name="color" value="yellow" id="yellow" />
+                <label for="yellow">Yellow</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
 
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Little-black-dress/little-black-dress-1.jpg"
+            class="card-img-top"
+            alt="Little black dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Little black dress</h5>
+            <p class="card-text">Price: 1300MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="black" id="black" />
+                <label for="black">Black</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Brown-dress/brown-dress-3.jpg"
+            class="card-img-top"
+            alt="Brown dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Brown dress</h5>
+            <p class="card-text">Price: 1400MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="brown" id="brown" />
+                <label for="brown">Brown</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
+      </div>
+
+        <div class="card-group">
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Green-dress/green-dress-1.jpg"
+            class="card-img-top"
+            alt="Green dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Green dress</h5>
+            <p class="card-text">Price: 1400MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="green" id="green" />
+                <label for="green">Green</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Yellow-dress/yellow-dress-3.jpg"
+            class="card-img-top"
+            alt="Yellow dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Yellow dress</h5>
+            <p class="card-text">Price: 1400MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="yellow" id="yellow" />
+                <label for="yellow">Yellow</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
+
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Summer-dress/summer-dress-3.jpg"
+            class="card-img-top"
+            alt="Summer dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Summer dress</h5>
+            <p class="card-text">Price: 1900MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="blue" id="blue" />
+                <label for="blue">Blue</label>
+                <input type="radio" name="color" value="yellow" id="yellow" />
+                <label for="yellow">Yellow</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
   
+        <div class="card">
+          <img
+            src="../../products-images/womens-category/Dresses/Short-summer-dress/short-summer-dress-1.jpg"
+            class="card-img-top"
+            alt="Short summer dress"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Short summer dress</h5>
+            <p class="card-text">Price: 1700MKD<br /></p>
+            <form action="checkbox">
+              <p>
+                Choose your size:
+                <input type="checkbox" id="sizeS" />
+                <label for="sizeS">S</label>
+                <input type="checkbox" id="sizeM" />
+                <label for="sizeM">M</label>
+                <input type="checkbox" id="sizeL" />
+                <label for="sizeL">L</label>
+              </p>
+            </form>
+            <form action="radio">
+              <p>
+                Choose your color:
+                <input type="radio" name="color" value="pink" id="pink" />
+                <label for="pink">Pink</label>
+                <input type="radio" name="color" value="white" id="white" />
+                <label for="white">White</label>
+              </p>
+            </form>
+            <a href="#" class="btn btn-outline-secondary">ADD TO CARD</a>
+          </div>
+        </div>
 
-
+      </div>
+     
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
